@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "Urvi",
+    "password": "$2b$08$ZFLt9f1xpNv.gVXy4typS.lA8TnZdyW/SbR3XgWRjcLLGID7XsoNW",
+    "username": "urvi",
+    "role": "user"
+  },
+  {
+    "id": 2,
+    "name": "Anushka Singh",
+    "password": "$2b$08$RYgzVmp1.H6zzU1bjSqJp.CWhzVRpvd0aIrn92JIf5zb7WoNz512e",
+    "username": "anushkasingh",
+    "role": "admin"
+  }
+]

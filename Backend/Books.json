@@ -1,0 +1,482 @@
+[
+  {
+    "id": 1,
+    "name": "The Left Hand of Darkness",
+    "author": "Ursula K. Le Guin",
+    "year": "1969",
+    "link": "",
+    "genre": "Sci-fi",
+    "image": "",
+    "description": "This novel delves into themes of gender, culture, and the nature of humanity as an anthropologist, Genly I, travels to the planet Gethen to study its inhabitants, who are androgynous and live in a perpetual winter-like climate. Le Guin's exploration of gender roles and the potential for understanding different cultures makes this a thought-provoking and memorable read."
+  },
+  {
+    "id": 2,
+    "name": "Hyperion",
+    "author": "Dan Simmons",
+    "year": "1989",
+    "link": "",
+    "genre": "Sci-fi",
+    "image": "",
+    "description": "This science fiction classic tells the story of seven pilgrims who travel to the mysterious world of Hyperion, a place where the forces of the universe converge, as they seek a solution to a looming cosmic threat. The novel features a collection of interwoven narratives that explore themes of faith, death, and the nature of humanity in a vast, alien landscape."
+  },
+  {
+    "id": 3,
+    "name": "Dune",
+    "author": "Frank Herbert",
+    "year": "1965",
+    "link": "",
+    "genre": "Sci-fi",
+    "image": "",
+    "description": "This epic novel, set in a feudalistic future, explores themes of power, politics, ecology, and spirituality within a vast, interconnected galaxy. The story revolves around the noble family Atreides, who are tasked with governing the desert planet Arrakis, the only source of the valuable spice melange, which extends life and enhances mental abilities."
+  },
+  {
+    "id": 4,
+    "name": "The Hitchhker's Guide to the Galaxy",
+    "author": "Douglas Adams",
+    "year": "1979",
+    "link": "",
+    "genre": "Sci-fi",
+    "image": "",
+    "description": "A comedic and satirical adventure that follows a man who is unexpectedly transported to a galaxy far away, exploring the absurdity of life and the human condition."
+  },
+  {
+    "id": 5,
+    "name": "The Nightingale",
+    "author": "Kristin Hannah",
+    "year": "2015",
+    "link": "",
+    "genre": "Historical Fiction",
+    "image": "",
+    "description": "Two sisters in WWII France take different paths to resist the Nazi regime. It’s a powerful tale of bravery, sacrifice, and the strength of women in wartime."
+  },
+  {
+    "id": 6,
+    "name": "Gone with the Wind",
+    "author": "Margaret Mitchell",
+    "year": "1936",
+    "link": "",
+    "genre": "Historical Fiction",
+    "image": "",
+    "description": "Set during the Civil War, this novel follows Scarlett O’Hara, a determined Southern belle, as she faces love, loss, and survival. It’s a story of resilience amid a changing world."
+  },
+  {
+    "id": 7,
+    "name": "The Book Thief",
+    "author": "Markus Zusak",
+    "year": "2006",
+    "link": "",
+    "genre": "Historical Fiction",
+    "image": "",
+    "description": "In Nazi Germany, young Liesel finds solace in stealing books and sharing stories during wartime. Narrated by Death, the novel explores the power of words and humanity in dark times."
+  },
+  {
+    "id": 8,
+    "name": "The Help",
+    "author": "Kathryn Stockett",
+    "year": "2009",
+    "link": "",
+    "genre": "Historical Fiction",
+    "image": "",
+    "description": "In 1960s Mississippi, African American maids and a white aspiring writer team up to challenge racism. Their secret project sparks change in a deeply segregated society."
+  },
+  {
+    "id": 9,
+    "name": "The Silent Patient",
+    "author": "Alex Michaelides",
+    "year": "2019",
+    "link": "",
+    "genre": "Mystery",
+    "image": "",
+    "description": "A famous painter shoots her husband and then stops speaking entirely. A psychotherapist becomes obsessed with uncovering her motive, leading to a shocking twist."
+  },
+  {
+    "id": 10,
+    "name": "The Housemaid",
+    "author": "Freida McFadden",
+    "year": "2021",
+    "link": "",
+    "genre": "Mystery",
+    "image": "",
+    "description": "A desperate woman takes a job as a live-in maid for a wealthy family, but soon discovers dark secrets in the house. Nothing is as it seems."
+  },
+  {
+    "id": 11,
+    "name": "Gone Girl",
+    "author": "Gillian Flynn",
+    "year": "2012",
+    "link": "",
+    "genre": "Mystery",
+    "image": "",
+    "description": "When Amy Dunne disappears, her husband Nick becomes the prime suspect. As the media frenzy grows, hidden truths about their toxic marriage are revealed."
+  },
+  {
+    "id": 12,
+    "name": "The Guest List",
+    "author": "Lucy Foley",
+    "year": "2020",
+    "link": "",
+    "genre": "Mystery",
+    "image": "",
+    "description": "Guests gather on a remote island for a glamorous wedding—but someone ends up dead. Dark secrets and simmering tensions unravel in this twisty whodunit."
+  },
+  {
+    "id": 13,
+    "name": "The Haunting of the Hill",
+    "author": "Shirley Jackson",
+    "year": "1959",
+    "link": "",
+    "genre": "Horror",
+    "image": "",
+    "description": "A group of strangers investigates a notoriously haunted mansion. As eerie events unfold, the line between reality and madness blurs—especially for Eleanor."
+  },
+  {
+    "id": 14,
+    "name": "The Shining",
+    "author": "Stephen King",
+    "year": "1977",
+    "link": "",
+    "genre": "Horror",
+    "image": "",
+    "description": "Jack Torrance takes a job as caretaker of an isolated hotel with a dark past. As winter sets in, supernatural forces drive him into a terrifying descent."
+  },
+  {
+    "id": 15,
+    "name": "Dracula",
+    "author": "Bram Stoker",
+    "year": "1897",
+    "link": "",
+    "genre": "Horror",
+    "image": "",
+    "description": "Told through letters and journals, this Gothic classic follows Count Dracula's move to England and the group determined to stop his vampiric reign of terror."
+  },
+  {
+    "id": 16,
+    "name": "The Exorcist",
+    "author": "William Peter Blatty",
+    "year": "1971",
+    "link": "",
+    "genre": "Horror",
+    "image": "",
+    "description": "When a young girl becomes possessed by a demonic force, her mother turns to priests for help. A chilling battle between good and evil ensues."
+  },
+  {
+    "id": 17,
+    "name": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "year": "1813",
+    "link": "",
+    "genre": "Romance",
+    "image": "",
+    "description": "Elizabeth Bennet navigates love, class, and misunderstandings with the proud Mr. Darcy. A witty and timeless tale of romance and personal growth."
+  },
+  {
+    "id": 18,
+    "name": "Outlander",
+    "author": "Diana Gabaldon",
+    "year": "1991",
+    "link": "",
+    "genre": "Romance",
+    "image": "",
+    "description": "A WWII nurse is transported back to 18th-century Scotland, where she falls for a Highland warrior. Time travel, adventure, and passionate romance collide."
+  },
+  {
+    "id": 19,
+    "name": "The Notebook",
+    "author": "Nicholas Sparks",
+    "year": "1996",
+    "link": "",
+    "genre": "Romance",
+    "image": "",
+    "description": "An elderly man reads the story of a young couple’s enduring love, tested by time and circumstance. A heartwarming and emotional tale of devotion."
+  },
+  {
+    "id": 20,
+    "name": " Red, White & Royal Blue",
+    "author": "Casey McQuiston",
+    "year": "2019",
+    "link": "",
+    "genre": "Romance",
+    "image": "",
+    "description": "The First Son of the U.S. and a British prince go from rivals to secret lovers. A fun, feel-good romance about identity, politics, and falling in love."
+  },
+  {
+    "id": 21,
+    "name": "The Chronicles of Narnia: The Lion, the Witch, and the Wardrobe",
+    "author": "C. S. Lewis",
+    "year": "1950",
+    "link": "",
+    "genre": "Fantasy",
+    "image": "",
+    "description": "A series of children’s fantasy adventures set in the magical world of Narnia, filled with talking animals, mythical creatures, and epic battles. Guided by the lion Aslan, young heroes fight to protect Narnia from evil and restore peace."
+  },
+  {
+    "id": 22,
+    "name": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "year": "1937",
+    "link": "",
+    "genre": "Fantasy",
+    "image": "",
+    "description": "Bilbo Baggins, a quiet hobbit, is swept into a quest to reclaim treasure from a dragon. Along the way, he discovers courage and unexpected adventure."
+  },
+  {
+    "id": 23,
+    "name": "A Game of Thrones",
+    "author": "George R.R. Martin",
+    "year": "1996",
+    "link": "",
+    "genre": "Fantasy",
+    "image": "",
+    "description": "Noble families battle for control of the Iron Throne in a land full of betrayal, war, and dark magic. Epic fantasy with political intrigue and brutal twists."
+  },
+  {
+    "id": 24,
+    "name": "His Dark Materials: Northern Lights",
+    "author": "Philip Pullman",
+    "year": "1995",
+    "link": "",
+    "genre": "Fantasy",
+    "image": "",
+    "description": "Lyra Belacqua embarks on a dangerous journey to the North to rescue kidnapped children. Along the way, she uncovers dark secrets about her world and the mysterious substance known as Dust."
+  },
+  {
+    "id": 25,
+    "name": "Wings of Fire",
+    "author": " A. P. J. Abdul Kalam, Arun Tiwari",
+    "year": "2000",
+    "link": "",
+    "genre": "Biography",
+    "image": "",
+    "description": "An inspiring autobiography of India’s former president, APJ Abdul Kalam, detailing his humble beginnings, his journey to becoming a scientist, and his dreams for India's future. The book emphasizes the importance of hard work, perseverance, and vision in achieving success."
+  },
+  {
+    "id": 26,
+    "name": "The Diary of a Young Girl",
+    "author": "Anne Frank",
+    "year": "1947",
+    "link": "",
+    "genre": "Biography",
+    "image": "",
+    "description": "This powerful diary captures the thoughts and experiences of Anne Frank, a Jewish teenager hiding from the Nazis during World War II. Her reflections reveal hope, fear, and the resilience of the human spirit amid unimaginable hardship."
+  },
+  {
+    "id": 27,
+    "name": "I am Malala",
+    "author": "Malala Yousafzai",
+    "year": "2013",
+    "link": "",
+    "genre": "Biography",
+    "image": "",
+    "description": "The memoir of Malala Yousafzai, who stood up for girls’ education in Pakistan and survived a Taliban attack. Her story is a powerful testament to courage, education, and the fight for women's rights."
+  },
+  {
+    "id": 28,
+    "name": "Long Walk to Freedom",
+    "author": "Nelson Mandela",
+    "year": "1994",
+    "link": "",
+    "genre": "Biography",
+    "image": "",
+    "description": "Nelson Mandela’s autobiography chronicles his journey from a rural village to becoming South Africa’s first Black president. It’s a powerful story of resistance, sacrifice, and the fight against apartheid."
+  },
+  {
+    "id": 29,
+    "name": "Atomic Habits",
+    "author": "James Clear",
+    "year": "2018",
+    "link": "",
+    "genre": "Self Help",
+    "image": "",
+    "description": "This book provides a practical, step-by-step guide on how to build good habits and break bad ones, focusing on the power of small, incremental changes."
+  },
+  {
+    "id": 30,
+    "name": "The 7 Habits of Highly Effective People",
+    "author": "Stephen Covey",
+    "year": "1989",
+    "link": "",
+    "genre": "Self Help",
+    "image": "",
+    "description": "This classic explores principles for achieving personal and professional success, emphasizing character ethics and proactive living."
+  },
+  {
+    "id": 31,
+    "name": "Think and Grow Rich",
+    "author": "Napoleon Hill",
+    "year": "1937",
+    "link": "",
+    "genre": "Self Help",
+    "image": "",
+    "description": "This book offers a timeless guide to achieving financial success and building a fulfilling life, focusing on positive thinking, determination, and belief."
+  },
+  {
+    "id": 32,
+    "name": "Dare to Lead",
+    "author": "Brené Brown",
+    "year": "2017",
+    "link": "",
+    "genre": "Self Help",
+    "image": "",
+    "description": "Brené Brown's book delves into the science of vulnerability, offering practical strategies for leading with courage and fostering a culture of belonging and empathy."
+  },
+  {
+    "id": 33,
+    "name": "We Keep the Dead Close",
+    "author": "Becky Cooper",
+    "year": "2000",
+    "link": "",
+    "genre": "True Crime",
+    "image": "",
+    "description": "A true-crime memoir investigating the decades-old murder of a Harvard student and the secrets within elite academic circles. Blends journalism, personal narrative, and feminist critique."
+  },
+  {
+    "id": 34,
+    "name": "Bad Blood",
+    "author": "John Carreyrou",
+    "year": "2018",
+    "link": "",
+    "genre": "True Crime",
+    "image": "",
+    "description": "An exposé of Theranos, the biotech startup led by Elizabeth Holmes, and how it deceived investors and endangered lives. A gripping tale of ambition, fraud, and investigative journalism."
+  },
+  {
+    "id": 35,
+    "name": "Savage Appetites",
+    "author": "Rachel Monroe",
+    "year": "2019",
+    "link": "",
+    "genre": "True Crime",
+    "image": "",
+    "description": "Explores four women’s obsession with true crime, examining how crime stories reflect deeper cultural and psychological themes. A thoughtful blend of memoir, journalism, and critique."
+  },
+  {
+    "id": 36,
+    "name": "The Fact of a Body",
+    "author": "Alexandria Marzano-Lesnevich",
+    "year": "2017",
+    "link": "",
+    "genre": "True Crime",
+    "image": "",
+    "description": "Part memoir, part true crime, this book weaves the author’s personal trauma with the murder trial she once worked on, blurring lines between truth, justice, and storytelling."
+  },
+  {
+    "id": 37,
+    "name": "Asana Pranayama Mudra Bandha",
+    "author": "Swami Satyananda Saraswati",
+    "year": "1969",
+    "link": "",
+    "genre": "Health and Wellness",
+    "image": "",
+    "description": "A comprehensive manual on hatha yoga, detailing physical postures (asanas), breathing techniques (pranayama), energy locks (bandhas), and gestures (mudras). Widely used by yoga practitioners and teachers globally. First published in 1969, with a notable revised edition released in 2002."
+  },
+  {
+    "id": 38,
+    "name": "Breath",
+    "author": "James Nestor",
+    "year": "2020",
+    "link": "",
+    "genre": "Health and Wellness",
+    "image": "",
+    "description": "An exploration into the science and history of breathing, emphasizing the health benefits of nasal over mouth breathing. Nestor combines research and personal experimentation to reveal how proper breathing can improve well-being. Published in 2020."
+  },
+  {
+    "id": 39,
+    "name": "10% Happier",
+    "author": "James Nestor",
+    "year": "2014",
+    "link": "",
+    "genre": "Health and Wellness",
+    "image": "",
+    "description": "After experiencing a panic attack on live TV, ABC News anchor Dan Harris delves into meditation, offering a candid account of his journey towards mindfulness and mental clarity. The book serves as a guide for skeptics interested in meditation."
+  },
+  {
+    "id": 40,
+    "name": "When the Body Says No",
+    "author": "Dr. Gabor Maté",
+    "year": "2003",
+    "link": "",
+    "genre": "Health and Wellness",
+    "image": "",
+    "description": "Dr. Maté examines the connection between chronic stress and its impact on physical health, illustrating how unaddressed emotional issues can manifest as serious illnesses."
+  },
+  {
+    "id": 41,
+    "name": "The Psychology of Money",
+    "author": "Morgan Housel",
+    "year": "2020",
+    "link": "",
+    "genre": "Business and Finance",
+    "image": "",
+    "description": "Explores how emotions, biases, and personal history influence financial decisions more than logic or intelligence. Offers timeless lessons on wealth, greed, and happiness."
+  },
+  {
+    "id": 42,
+    "name": "Rich Dad, Poor Dad",
+    "author": "Robert T. Kiyosaki",
+    "year": "1997",
+    "link": "",
+    "genre": "Business and Finance",
+    "image": "",
+    "description": "Contrasts the financial philosophies of the author’s “rich dad” and “poor dad” to illustrate how mindset affects financial success. Encourages financial education and investing."
+  },
+  {
+    "id": 43,
+    "name": "Liar's Poker",
+    "author": "Michael Lewis",
+    "year": "1989",
+    "link": "",
+    "genre": "Business and Finance",
+    "image": "",
+    "description": "A semi-autobiographical account of Lewis’s time at Salomon Brothers in the 1980s, offering a sharp, humorous look into Wall Street’s culture and excess."
+  },
+  {
+    "id": 44,
+    "name": "The Intelligent Investor",
+    "author": "Benjamin Graham",
+    "year": "1949",
+    "link": "",
+    "genre": "Business and Finance",
+    "image": "",
+    "description": "A classic in value investing, teaching long-term investment strategies and how to manage market fluctuations with discipline and patience."
+  },
+  {
+    "id": 45,
+    "name": "Remnants of Separtion",
+    "author": "Anchal Malhotra",
+    "year": "2017",
+    "link": "",
+    "genre": "True History",
+    "image": "",
+    "description": "A powerful oral history that explores the human impact of the 1947 Partition of India through personal objects carried across the newly drawn borders."
+  },
+  {
+    "id": 46,
+    "name": "The Warmth of Other Suns",
+    "author": "Isabel Wilkerson",
+    "year": "2010",
+    "link": "",
+    "genre": "True History",
+    "image": "",
+    "description": "Narrates the Great Migration of African Americans from the South to the North and West (1915–1970) through the lives of three individuals, blending historical research with personal storytelling."
+  },
+  {
+    "id": 47,
+    "name": "Hitler",
+    "author": "Ian Kershaw",
+    "year": "2000",
+    "link": "",
+    "genre": "True History",
+    "image": "",
+    "description": "Hitler is a highly acclaimed two-volume biography that provides a comprehensive and meticulously researched account of Adolf Hitler’s life and rise to power."
+  },
+  {
+    "id": 48,
+    "name": "The Second Sex",
+    "author": "Simone de Beauvoir",
+    "year": "1949",
+    "link": "",
+    "genre": "True History",
+    "image": "",
+    "description": "A foundational feminist text that examines the historical and social treatment of women, arguing that gender is a social construct rather than a biological destiny."
+  }
+]

@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shoe Showcase Website</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <header>
+        <div class="navbar">
+
+            <div class="nav-logo">
+                <div class="logo"></div>
+            </div>
+
+
+            <!-- <div class="nav-address">
+            <p class="add-first">Deliver to</p>
+            <div class="add-icon">
+                <i class="fa-solid fa-location-dot"></i>
+                <p class="add-second">India</p>
+            </div>
+        </div> -->
+
+            <div class="nav-search">
+                <!-- <select class="search-select">
+                
+            </select> -->
+                <input placeholder="Search your Velvet Owl" class="search-input">
+                <div class="search-icon">
+                    <i class="fa-solid fa-magnifying-glass"></i>
+                </div>
+            </div>
+
+            <div class="nav-signin">
+                <p id="login/signup"><a class="btn submit_button" href="signup.html" role="button">Login/Signup</a></span></p>
+                <div class="nav-account-logo logged_in">
+                  <i class="fa-solid fa-user"></i>
+                  <span class="nav-second mx-2"><a href="login.html">Welcome! </a></span>
+                </div>
+                <!-- button for admin user -->
+                <p id="admin_login"><a class="btn submit_button logged_in_admin" href="modifyBooks.html" role="button">Modify Books</a></span></p>
+                <p id="logout"><button id="logout_btn" class="btn submit_button ms-2">Logout</button></p>
+              </div>
+
+    </header>
+
+
+    <!-- card books -->
+    <div class="books_content">
+        <h1 class="mx-4 mt-4">Genre Books</h1>
+        <div id="book_card" class="mt-3">
+            <div id="loader" class="spinner-border" style="display: none;"  role="status">
+                <span class="visually-hidden">Loading...</span>
+            </div>
+            
+
+
+
+
+    
+
+
+
+        </div>
+    </div>
+
+
+    <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h1 class="modal-title fs-5" id="exampleModalLabel">To Read The Book</h1>
+              <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+            Please sign up/login
+            </div>
+            <div class="modal-footer">
+              <!-- <button type="button" class="btn btn-secondary read_book" data-bs-dismiss="modal">Signup</button> -->
+              <a class="btn btn-secondary read_book" href="signup.html"  role="button">Signup</a>
+              <a type="button" class="btn btn-primary read_book" href="login.html">Login</a>
+            </div>
+          </div>
+        </div>
+      </div>
+
+
+
+
+      <footer>
+        <div class="container-fluid" id="footer">
+          <div class="row">
+            <div class="col-12">
+              <div class="row">
+                <div class="col-7 b-right">
+                  <p>Velvet Owl</p>
+                  <p>
+                    <i class="fa-solid fa-location-dot"></i> Chitkara University
+                    <span class="footer-text">
+                      <i class="fa-solid fa-phone"></i>111-101-1001
+                    </span>
+                  </p>
+                  <div class="row">
+                    <!-- <div class="col-4"><a href="#">Visit Soul of Sole</a></div> -->
+                    <!-- <div class="col-2"><a href="https://maps.app.goo.gl/N5iZMFodDdMHeyUC7" target="_blank">Map</a></div> -->
+                    <div class="col-3"><a href="#">Contact Us</a></div>
+                    <div class="col-3"><a href="#">Links</a></div>
+                  </div>
+    
+                  <hr>
+    
+                  <div class="row">
+                    <div class="col-4"><a href="#">Security Policy</a></div>
+                    <div class="col-4"><a href="#">Accessibility</a></div>
+                    <div class="col-4"><a href="#">Help</a></div>
+                  </div>
+    
+    
+    
+                </div>
+    
+    
+                <div class="col-4">
+                  <div class="card" style="width: 18rem;">
+                    <div class="card-body">
+                      <h5 class="card-title">
+                        <div class="nav-logo border">
+                          <div class="logo"></div>
+                        </div>
+                      </h5>
+                      <h6 class="card-subtitle mb-2 text-body-secondary">Velvet Owl</h6>
+                      <p class="card-text catch-phrase">Align yourself with Velvet Owl</p>
+    
+                    </div>
+                  </div>
+    
+                </div>
+              </div>
+            </div>
+            <div class="col-12 copyright">
+              <i class="fa-solid fa-copyright"></i> Copyright (since 2025)
+            </div>
+          </div>
+        </div>
+      </footer>
+
+
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
+        crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js"
+        integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r"
+        crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.min.js"
+        integrity="sha384-0pUGZvbkm6XF6gxjEnlmuGrJXVbNuzT9qBBavbLwCsOGabYfZo0T0to5eqruptLy"
+        crossorigin="anonymous"></script>
+      
+    <script src="./scripts/script2.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,474 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap');
+
+*{
+    padding: 0;
+    margin:0;
+    font-family: Arial;
+    border: border-box;
+    color: black;
+    font-family: "Quicksand", sans-serif;
+    font-style: normal;
+}
+body{
+    margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+}
+
+.navbar{
+    /* height: 100px; */
+    background-color: #0f1111;
+    color: white;
+    display: flex;
+    align-items: center;
+
+    justify-content: space-evenly;
+}
+
+.nav-logo{
+    height: 90px;
+    width: 90px;
+}
+ 
+.logo{
+    background-image: url("./images/Velvetowl.png");
+    height: 90px;
+    width: 120%;
+    background-size: cover;
+    margin-top: 1px;
+}
+
+.border{
+    border: 1.5px solid transparent;
+}
+
+.nav-signin{
+    color: white;
+    display: flex;
+    
+}
+
+/* .border:hover{
+    border: 2px solid white;
+} */
+
+/* box2 */
+/* .add-first{
+    color:#cccccc;
+    font-size: 1rem;
+    margin-left: 15px;
+} */
+/* .add-second{
+    font-size: 1rem;
+} */
+/* .add-icon{
+    font-size: 2rem;
+    align-items: center;
+    margin-left: 15px;
+} */
+
+/* .nav-address{
+    margin-left: 20px;
+} */
+/* .nav-address:hover{
+    border: 2px solid white;
+} */
+
+/* box3 */
+.nav-search{
+    display: flex;
+    justify-content: space-evenly;
+    background-color:burlywood;
+    width: 620px;
+    height: 40px;
+    border-radius: 3%;
+}
+/* .nav-search:hover{
+    border: 2px solid rgb(231, 151, 46)
+} */
+
+.search-select{
+    background-color: burlywood;
+    width: 50px;
+    text-align: center;
+    border-top-left-radius: 3px;
+    border-bottom-left-radius: 3px;
+    border: none;
+}
+
+.search-input{
+    width: 520px;
+    font-size: 1rem;
+    border: none;
+    color: black;
+}
+
+.search-all{
+    color: black;
+}
+
+.search-icon{
+    width: 45px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.2rem;
+    border-top-right-radius: 3px;
+    border-bottom-right-radius: 3px;
+    color: #0f1111;
+}
+/* .search-icon:hover{
+    border: 2px solid white;
+} */
+
+/* box4 */
+span{
+    font-size: 0.7rem;
+}
+
+.morebooks{
+    background-color: burlywood;
+    margin-left: 40%;
+    margin-right: 50%;
+    width: 20%;
+}
+
+
+
+.nav-second{
+    font-size: 0.85rem;
+    font-weight: 700;
+    color: white !important;
+}
+
+.fa-user{
+    color: white;
+}
+
+.signin{
+    color: white;
+}
+
+/* box5 */
+/* .nav-cart i{
+    font-size: 30px;
+} */
+
+/* .nav-cart{
+    font-size: 0.85rem;
+    font-weight: 700;
+} */
+
+/* panel */
+.panel{
+    height: 40px;
+    background-color:burlywood;
+    display: flex;
+    align-items: center; 
+    justify-content: space-evenly;
+    font-size: 1.5rem;
+    font-weight: 500;
+}
+.panel-women{
+    color: black;
+}
+
+
+.panel-men{
+    color: black;
+    width: 50%;
+}
+
+
+.panel-icon p{
+    display: inline;
+    width: 50%;
+}
+/* .panel-icon:hover{
+    border: 2px solid white;
+} */
+
+.menubar{
+    color: black;
+    font-size: 20px;
+}
+
+
+
+
+.carousel-control-next-icon, .carousel-control-prev-icon{
+    background-color: #834e08;
+}
+
+#bestsellers{
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+
+
+
+
+#footer{
+    /* position: absolute; */
+    bottom: 0;
+    /* height: 250px; */
+    background-color: burlywood;
+    margin-top: 30px;
+    padding: 30px;
+    padding-top: 60px;
+}
+
+.footer-text{
+    font-family: Arial;
+    font-size: 15px;
+    margin-left: 15px;
+}
+
+a{
+    text-decoration: none;
+    color:#834e08;
+    font-weight: 550;
+    font-size: 15px;
+}
+
+.b-right{
+    border-right: 1px solid black;
+    padding-right: 10px;
+}
+
+
+.catch-phrase{
+    font-weight: 700;
+}
+
+.copyright{
+    padding-top: 15px;
+    font-size: 12px;
+    /* border-top: 1px solid black; */
+}
+
+
+.carousel{
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.carousel-item img{
+    height:450px;
+object-fit:contain;   
+}
+
+.carosuel-heading{
+   position: relative;
+    color:white;
+    font-weight: bold;
+}
+
+
+.parallax-section {
+    position: relative;
+    height: 600px; /* or however tall you want */
+    overflow: hidden;
+  }
+  
+  .parallax-bg {
+    background-image: url('./images/paral1.jpeg'); /* replace with your bg */
+    background-size: cover;
+    background-attachment: fixed; /* this is the magic for parallax */
+    background-position: center;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 0;
+    }
+  
+  .carousel-content {
+    position: relative;
+    z-index: 2;
+    padding-top: 50px;
+    color: white;
+  }
+.category_buttons{
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.category_buttons button{
+        width: 40%;
+        height: 200px;
+        font-weight: bold;
+        color: #ffffff;
+        font-size: 27px;
+        transition: transform 0.2s ease, border 0.2s ease;
+}
+.category_buttons button:hover{
+    color: white !important;   
+}
+/* .category_buttons button:focus{
+    color:white !importa
+} */
+/* .category_buttons button:active{
+    color: white !important;
+} */
+.category_buttons button:nth-child(1)
+{
+    background-image: url('./images/paral2.jpeg'); 
+    background-size: cover;
+    background-position: center;
+}
+
+
+.category_buttons button:nth-child(2)
+{
+    background-image: url('./images/fiction.jpg'); 
+    background-size: cover;
+    background-position: center;
+    
+}
+
+.active_fiction{
+    
+  transform: scale(1.1);
+  color:white
+
+}
+.genre_books{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    width: 100%;
+}
+.genre_books button{
+    width: 18%;
+    margin-right: 2px;
+    margin-bottom: 10px;
+    height: 70px;
+}
+
+.genre_books button{
+    background-size: cover;
+    background-position: center;
+    color:white;
+    transition:all 0.2s ease-out
+}
+
+.genre_books button:hover{
+    color:white;
+    transform: scale(1.1);
+}
+
+.genre_books button:active{
+    color:white !important;
+}
+
+.genre_books button:nth-child(1)
+{
+    background-image: url('./images/sci-fi.jpg'); 
+
+}
+.genre_books button:nth-child(2)
+{
+    background-image: url('./images/historical.jpg');
+}
+.genre_books button:nth-child(3)
+{
+    background-image: url('./images/mystery.jpg');
+    
+}
+.genre_books button:nth-child(4)
+{
+    background-image: url('./images/horror.jpg');
+    
+}
+.genre_books button:nth-child(5)
+{
+    background-image: url('./images/romatic.jpg');
+    
+}
+.genre_books button:nth-child(6)
+{
+    background-image: url('./images/fantasy.jpg');
+}
+#fiction_genre_books_section
+{
+    display: none;
+    transition:all 0.2s ease-in-out
+
+}
+
+.display_genre_books{
+    display: block !important;
+}
+
+
+#non-fiction_genre_books_section
+{
+    display: none;
+}
+
+#non-fiction-genre-books button:nth-child(1){
+    background-image: url('./images/biography.jpg');
+}
+
+#non-fiction-genre-books button:nth-child(2){
+    background-image: url('./images/self-help.jpg');
+}
+#non-fiction-genre-books button:nth-child(3){
+    background-image: url('./images/truecrime.jpg');
+}
+#non-fiction-genre-books button:nth-child(4){
+    background-image: url('./images/health.jpg');
+}
+#non-fiction-genre-books button:nth-child(5){
+    background-image: url('./images/finance.jpg');
+}
+#non-fiction-genre-books button:nth-child(6){
+    background-image: url('./images/truehistory.jpg');
+}
+
+.spinner-border{
+    color: burlywood;
+}
+#book_card{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.read_book{
+    background-color: #0F1111 !important;
+    color:white !important;
+}
+.logged_in{
+display: none;
+font-size: 20px;
+}
+.submit_button{
+    background-color:peru;
+    color: white;
+}
+.submit_button:hover{
+    background-color:peru !important;
+    color: white !important;
+}
+.nav-second a{
+    color: white;
+}
+.logged_in_admin{
+    display: none;
+}
+#all_books_content
+{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+#logout{
+    display: none;
+}
