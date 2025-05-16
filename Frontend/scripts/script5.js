@@ -23,10 +23,10 @@ window.addEventListener("DOMContentLoaded",()=>
     {  document.getElementById('loader').style.display="none";
         const requested_books=response.books;
         requested_books.forEach(book => {
-                all_books+=`<div id=bookno-${book.id} class="card mb-3" style="max-width: 540px; " data-book-id=${book.id}>
+                all_books+=`<div id=bookno-${book.image_id} class="card mb-3" style="max-width: 540px; " data-book-id=${book._id}>
                 <div class="row g-0">
                     <div class="col-md-4">
-                        <img src="http://localhost:5000/images/img${book.id}.png" class="img-fluid rounded-start" alt="...">
+                        <img src="http://localhost:5000/images/img${book.image_id}.png" class="img-fluid rounded-start" alt="...">
                     </div>
                     <div class="col-md-8">
                         <div class="card-body">

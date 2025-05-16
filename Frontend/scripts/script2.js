@@ -26,7 +26,7 @@ window.addEventListener("DOMContentLoaded", () => {
             books+=`<div class="card mb-3" style="max-width: 540px;">
                 <div class="row g-0">
                     <div class="col-md-4">
-                        <img src="http://localhost:5000/images/img${book.id}.png" class="img-fluid rounded-start" alt="...">
+                        <img src="http://localhost:5000/images/img${book.image_id}.png" class="img-fluid rounded-start" alt="...">
                     </div>
                     <div class="col-md-8">
                         <div class="card-body">
@@ -46,7 +46,7 @@ window.addEventListener("DOMContentLoaded", () => {
       read_btns.forEach((btn, index) => {
         if (userRole === 'user' || userRole==='admin') {
          
-          btn.setAttribute('href', `http://localhost:5000/pdfs/book${requested_books[index].id}.pdf`);
+          btn.setAttribute('href', `http://localhost:5000/pdfs/book${requested_books[index].image_id}.pdf`);
           btn.setAttribute('target', '_blank'); // optional: open in new tab
         }
         else {
